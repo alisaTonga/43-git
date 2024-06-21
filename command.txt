@@ -1,0 +1,9 @@
+Clear terminal
+clear 
+ctr + l == clear
+
+chose previous command
+point up
+
+add all
+git add .
